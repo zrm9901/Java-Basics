@@ -4,5 +4,6 @@
 * [AI proper use](/AI"Ethics"AndProperUse.md)
 * [Java fundementals](Quickstart.md)
 * [Arrays vs Lists](ArraysVsLists.md)
+* [GameStates](GameState.md)
 
 Hopefully this is useful
