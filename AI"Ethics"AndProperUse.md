@@ -6,7 +6,7 @@ Also whenever I'm referring to AI in thsi article, I am using it as a shorthand 
 There are three types of use cases for AI in coding
 
 ## Vibe coding
-This is one of the most contreversial topic of discussion, its is the idea where you dont do any coding, you do "prompting" and guide an AI while it codes.
+This is one of the most controversial topic of discussion, its is the idea where you dont do any coding, you do "prompting" and guide an AI while it codes.
 Obviously this is a topic of debate with two sides
 * We should use all the tools we have to code
 * This isnt coding, this is just editing.
