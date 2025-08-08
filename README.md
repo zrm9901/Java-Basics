@@ -5,5 +5,7 @@
 * [Java fundementals](Quickstart.md)
 * [Arrays vs Lists](ArraysVsLists.md)
 * [GameStates](GameState.md)
+* [Inheritance](Inheritance.md)
+* [Generics](Generics.md)
 
 Hopefully this is useful
