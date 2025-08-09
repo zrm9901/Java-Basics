@@ -146,7 +146,16 @@ public class child extends Abs {
     }
 }
 ```
-I dont really know what else to say about them other than you *may* be able to call super when overriding methods but i am unsure, never got it to work.
+I dont really know what else to say about them other than you *may* be able to call super when overriding methods but i am unsure, never got it to work. 
+
+Edit: **you can!** I just was doing it wrong, you can also do it on regular subclasses, with the super keyword
+```
+@override
+public void saySomething() {
+    super.saySomething();
+    System.out.println("Additional thing");
+}
+```
 
 # so what should I use for what?
 If you want a lot of similar object with different methods you can call by the same name do an interface, if not i mean you can try abstract classes or subclasses.
