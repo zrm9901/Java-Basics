@@ -8,7 +8,7 @@ String[] stringarray = new String[10]
 That's it, your array is now forever 10 long.
 Arrays are okay, and very useful for fast indexed based searching, but if you need anything more flexible you may want to look at Lists or even HashMaps. 
 
-#Arrays
+# Arrays
 Arrays are technically an object, but in a very minimalistic way. They provide nothing but the length and what is at an index. They can also directly store primitives and are a decent amount faster than Lists if you use them right.
 
 # Lists
@@ -20,7 +20,7 @@ ArrayList<Integer, Example> // where Example is a defined class
 # Wrappers
 if you didn't see my post earlier today, wrappers are basically, like lists, an upgraded version of primitives, with more functionality but less efficiency. TLDR if you don't need the extra methods, use primitives
 
-#Use cases of arrays
+# Use cases of arrays
 Ok, so arrays can be very efficient especially for multidimensional arrays
 ```
 String[][] s = new String[] {
